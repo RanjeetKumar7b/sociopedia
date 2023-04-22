@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sociopedia/static/css/main.b62ea404.css",
+    "main.js": "/sociopedia/static/js/main.c3f77278.js",
+    "index.html": "/sociopedia/index.html",
+    "main.b62ea404.css.map": "/sociopedia/static/css/main.b62ea404.css.map",
+    "main.c3f77278.js.map": "/sociopedia/static/js/main.c3f77278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.c3f77278.js"
+  ]
+}
